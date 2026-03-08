@@ -16,10 +16,6 @@ pollen-particle-analysis/
 │   └── pollen_analysis.ipynb
 │
 ├── data/
-│   ├── original_rgb/
-│   │   ├── T54_28.02.jpg
-│   │   ├── T55_28.02.jpg
-│   │   └── T91_28.02.jpg
 │   │
 │   ├── rgb_masks/
 │   │   └── selected regions extracted from the original images
